@@ -1,5 +1,5 @@
 # Giải pháp SIEM && XDR với Wazuh
-![image](https://github.com/user-attachments/assets/13973b45-8816-4378-a039-40eb2288dcea)
+![Logo](https://github.com/user-attachments/assets/13973b45-8816-4378-a039-40eb2288dcea)
 
 
                                            **'****** **UPDATING** *****'**
