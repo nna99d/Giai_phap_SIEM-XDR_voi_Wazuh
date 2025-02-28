@@ -2,8 +2,6 @@
 ![Logo](https://github.com/user-attachments/assets/13973b45-8816-4378-a039-40eb2288dcea)
 
 
-                                           **'****** **UPDATING** *****'**
-                                           
 ## Mô tả
 
 Wazuh là một nền tảng giám sát bảo mật mã nguồn mở, cung cấp các tính năng như phát hiện mối đe dọa, giám sát tính toàn vẹn, phản ứng sự cố và quản lý tuân thủ. Nó thường được sử dụng để theo dõi các sự kiện bảo mật trong mạng, phát hiện xâm nhập và duy trì tính toàn vẹn của hệ thống bằng cách theo dõi liên tục các thay đổi trong cơ sở hạ tầng. Dưới đây là một số tính năng chính của Wazuh:
