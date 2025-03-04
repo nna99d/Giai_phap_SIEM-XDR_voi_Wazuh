@@ -1,5 +1,5 @@
 # Giải pháp SIEM && XDR với Wazuh
-<img src="banner_github.png" alt="Wazuh Banner" width="100%" />
+<img src="wazuh-header-image.jpg" alt="Wazuh Banner" width="100%" height="200px"/>
 
 
 ## Mô tả
